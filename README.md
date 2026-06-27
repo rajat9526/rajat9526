@@ -21,6 +21,7 @@ My engineering background means I understand operational data — not just how t
 | [📈 Sales Forecasting & BI Framework](https://github.com/rajat9526/Sales-Forecasting-BI-Framework) | MySQL · Power BI · DAX | End-to-end retail sales dashboard with MoM trend analysis & peak-hour heatmaps |
 | [🎯 Customer Segmentation & Uplift Analysis](https://github.com/rajat9526/Uplift-Analysis-Customer-Segmentation) | SQL · Python · Pandas · Matplotlib | 15 business questions solved on 100K+ e-commerce order dataset |
 | [💳 Financial Risk & Loan Analytics](https://github.com/rajat9526/Financial-Risk-Assessment-Loan-Analytics) | Python · Jupyter · Classification | Credit risk segmentation with automated KPI reporting pipeline |
+| [🛍️ Consumer Shopping Behavior Analysis](https://github.com/rajat9526/consumer-shopping-behavior-analysis) | Python · SQL · Power BI | End-to-end retail intelligence project to analyze consumer behavior, optimizing marketing strategy and highlighting a 71% Q4 revenue spike. |
 
 ---
 
