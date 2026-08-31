@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajat Saini
 
 **Data Analyst | BI Analyst | GenAI-Powered Analytics Automation
-SQL • Python • Power BI • LLM Workflows • Statistical Analysis**
+SQL • Python • Power BI • Statistical Analysis**
 
 📍 Gurugram, Haryana, India &nbsp;|&nbsp; 🟢 **Open to Data Analyst / BI Analyst roles — India & Remote**
 
